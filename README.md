@@ -23,6 +23,9 @@ It has the following modules:
 
 **Authentication:** Google Authentication for user login and data security
 
+Figma File: https://www.figma.com/design/0z77cC0YxeboKAeQ2tjl67/CHAOS-CAUSE?node-id=0-1&node-type=canvas 
+Report: https://drive.google.com/file/d/1M5LMA8h-qALWp84oOR1lLLaRxwboXN0u/view
+
 ## Project Screenshots
 
 Here are some screenshots showcasing the application in action:
