@@ -25,13 +25,13 @@ It has the following modules:
 Here are some screenshots showcasing the application in action:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="cc1.jpeg" alt="" width="150"/>
-    <img src="cc2.jpeg" alt="" width="150"/>
-    <img src="cc3.jpeg" alt="" width="150"/>
+    <img src="cc1.jpg" alt="" width="150"/>
+    <img src="cc2.jpg" alt="" width="150"/>
+    <img src="cc3.jpg" alt="" width="150"/>
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-top: 10px;">
-    <img src="cc4.jpeg" alt=" " width="150"/>
-    <img src="cc5.jpeg" alt=" " width="150"/>
-    <img src="cc6.jpeg" alt=" " width="150"/>
+    <img src="cc4.jpg" alt=" " width="150"/>
+    <img src="cc5.jpg" alt=" " width="150"/>
+    <img src="cc6.jpg" alt=" " width="150"/>
 </div>
