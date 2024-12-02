@@ -16,8 +16,11 @@ It has the following modules:
 
 ### Technologies Used
 **Languages:** Dart
+
 **UI/UX:** Flutter framework
+
 **Backend Services:** Firebase for user data and authentication
+
 **Authentication:** Google Authentication for user login and data security
 
 ## Project Screenshots
