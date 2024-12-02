@@ -17,7 +17,7 @@ It has the following modules:
 ### Technologies Used
 **Languages:** Dart
 
-**UI/UX:** Flutter framework
+**UI/UX:** Flutter framework ( Tkinter previously)
 
 **Backend Services:** Firebase for user data and authentication
 
